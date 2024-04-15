@@ -196,7 +196,11 @@ figcaption p {
     margin-top: 10px;
     font-size: 24px;
 }
-    
+video {
+    margin-left: 400px;
+    width: auto;
+    height: 500px;
+}    
 /*footer*/ 
 
 .copy {
